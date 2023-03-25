@@ -4,5 +4,8 @@
     "jsonschema": "^1.4.1",
     "ws": "^8.7.0",
     "xml2js": "^0.4.23"
+  },
+  "scripts": {
+    "preinstall": "node preinstall.js"
   }
 }
